@@ -14,7 +14,7 @@ Este repositório é destinado ao armazenamento e organização dos notebooks, c
 
 ## 📁 Arquivos e Trabalhos Desenvolvidos
 
-* **`Exercicios_Python_Marcelo_Coccaro_M1.ipynb`**:
+* **`Exercícios_Python_Marcelo_6B_Noturno.ipynb`**:
   * Notebook contendo a resolução autêntica e individual dos 50 exercícios de fixação em Python.
   * Inclui trechos de código, comentários explicativos e justificativas para os métodos e estruturas adotados na resolução de cada problema.
 
