@@ -18,6 +18,9 @@ Este repositório é destinado ao armazenamento e organização dos notebooks, c
   * Notebook contendo a resolução autêntica e individual dos 50 exercícios de fixação em Python.
   * Inclui trechos de código, comentários explicativos e justificativas para os métodos e estruturas adotados na resolução de cada problema.
 
+* **`Exercicios_NumPy_SciPy_Pandas_Matplotlib.ipynb`**:
+  * Notebook contendo a resolução dos 80 exercícios de Data Science: NumPy, SciPy, Pandas e Matplotlib
+  * Existe uma pasta chamada $arquivos$, onde contem os arquivos que foram utilizados no notebook
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
