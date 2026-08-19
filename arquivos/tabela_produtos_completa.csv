@@ -1,0 +1,41 @@
+﻿ID,Produto,Preço,Quantidade,Desconto,Total,Categoria
+1,Arroz Integral 1kg,8.5,45,0.8500000000000001,382.5,Alimentos
+2,Feijão Preto 1kg,7.2,60,0.7200000000000001,432.0,Alimentos
+3,Açúcar Refinado 1kg,4.3,80,0.43,344.0,Alimentos
+4,Café Torrado e Moído 500g,18.9,35,1.89,661.5,Alimentos
+5,Óleo de Soja 900ml,6.8,100,0.68,680.0,Alimentos
+6,Azeite de Oliva Extra Virgem 500ml,34.5,25,3.45,862.5,Alimentos
+7,Leite Integral 1L,4.9,120,0.49,588.0,Alimentos
+8,Farinha de Trigo 1kg,5.1,50,0.51,255.0,Alimentos
+9,Macarrão Espaguete 500g,4.2,75,0.42,315.0,Alimentos
+10,Molho de Tomate 340g,3.1,90,0.31,279.0,Alimentos
+11,Sal Refinado 1kg,2.5,110,0.25,275.0,Alimentos
+12,Manteiga com Sal 200g,11.4,40,1.14,456.0,Alimentos
+13,Queijo Mussarela 500g,26.9,20,2.69,538.0,Alimentos
+14,Presunto Cozido 500g,21.5,22,2.15,473.0,Alimentos
+15,Iogurte Natural 170g,3.8,65,0.38,247.0,Alimentos
+16,Água Mineral 1.5L,3.2,200,0.32,640.0,Alimentos
+17,Refrigerante Guaraná 2L,8.9,70,0.8900000000000001,623.0,Alimentos
+18,Suco de Laranja Integral 1L,12.5,32,1.25,400.0,Alimentos
+19,Biscoito Recheado 130g,3.5,95,0.35,332.5,Alimentos
+20,Biscoito Cream Cracker 200g,4.5,80,0.45,360.0,Alimentos
+21,Chocolate em Barra 90g,6.9,60,0.6900000000000001,414.0,Alimentos
+22,Cereal Matinal 300g,15.2,25,1.52,380.0,Alimentos
+23,Aveia em Flocos 170g,6.1,45,0.61,274.5,Alimentos
+24,Atum em Conserva 170g,8.9,50,0.8900000000000001,445.0,Alimentos
+25,Sardinha em Conserva 125g,5.4,65,0.54,351.0,Alimentos
+26,Milho Verde em Lata 170g,3.9,85,0.39,331.5,Alimentos
+27,Ervilha em Lata 170g,3.9,80,0.39,312.0,Alimentos
+28,Maionese 500g,8.7,42,0.87,365.4,Alimentos
+29,Ketchup 400g,9.3,38,0.9300000000000002,353.40000000000003,Alimentos
+30,Mostarda 200g,6.4,40,0.6400000000000001,256.0,Alimentos
+31,Vinagre de Maçã 500ml,5.8,35,0.58,203.0,Alimentos
+32,Chá Verde 20 envelopes,7.6,48,0.76,364.8,Alimentos
+33,Batata Palha 120g,6.5,52,0.65,338.0,Alimentos
+34,Torrada Tradicional 140g,5.2,44,0.52,228.8,Alimentos
+35,Geleia de Morango 230g,14.8,18,1.4800000000000002,266.40000000000003,Alimentos
+36,Mel de Abelha 300g,22.9,15,2.29,343.5,Alimentos
+37,Granola 250g,12.4,30,1.2400000000000002,372.0,Alimentos
+38,Castanha de Caju 100g,16.8,22,1.6800000000000002,369.6,Alimentos
+39,Amendoim Torrado 150g,5.9,60,0.5900000000000001,354.0,Alimentos
+40,Azeitona Verde Fatiada 160g,7.8,40,0.78,312.0,Alimentos

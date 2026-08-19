@@ -1,0 +1,1 @@
+# Arquivos utilizados nas Atividades de Data Science: NumPy, SciPy, Pandas e Matplotlib
