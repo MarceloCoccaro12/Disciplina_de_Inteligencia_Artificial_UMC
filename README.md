@@ -19,8 +19,12 @@ Este repositório é destinado ao armazenamento e organização dos notebooks, c
   * Inclui trechos de código, comentários explicativos e justificativas para os métodos e estruturas adotados na resolução de cada problema.
 
 * **`Exercicios_NumPy_SciPy_Pandas_Matplotlib.ipynb`**:
-  * Notebook contendo a resolução dos 80 exercícios de Data Science: NumPy, SciPy, Pandas e Matplotlib
-  * Existe uma pasta chamada $arquivos$, onde contem os arquivos que foram utilizados no notebook
+  * Notebook contendo a resolução dos 80 exercícios de Data Science: NumPy, SciPy, Pandas e Matplotlib.
+  * Existe uma pasta chamada $arquivos$, onde contem os arquivos que foram utilizados no notebook.
+
+ * **`SVM_Iris.ipynb`**:
+  * Este notebook demostra um fluxo de trabalho básico de Machine Learning usando o algoritmo Support Vector Machine (SVM) para classificação.
+  * Para o exemplo foi utilizado a base de dados do Íris.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
