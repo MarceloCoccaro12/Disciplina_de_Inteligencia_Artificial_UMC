@@ -29,6 +29,11 @@ Este repositório é destinado ao armazenamento e organização dos notebooks, c
 * **`CancerMama_SVM.ipynb` e `QualidadeVinhoTinto_SVM.ipynb`**:
   * Notebooks realizados em aula no dia 03/09/26
   * Demostram um fluxo de trabalho básico de Machine Learning usando o algoritmo classificador Support Vector Machine (SVM).
+    
+* **`fertilizantes_summit.ipynb`**:
+  * Este notebook demostra um fluxo de trabalho de classificação, utilizando o SVM e GridSearchCV.
+  * Esse exercício foi realizado para fins acadêmicos e para apresentação no summit da faculdade.
+ 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
