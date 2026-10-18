@@ -37,6 +37,11 @@ Este repositório é destinado ao armazenamento e organização dos notebooks, c
 * **`FISHMORPH_Family_dataset.ipynb` e `FISHMORPH_Order.ipynb`**:
   * Este notebook demostra um fluxo de trabalho de classificação, utilizando dois datasets parecidos e já filtrados, utilizando o SVM e GridSearchCV.
   * Esse exercício foi realizado para fins acadêmicos e para preparação da avaliação M1.
+    
+* **`housing-california.ipynb`**:
+  * Este notebook demostra um fluxo de trabalho de regressão, onde foi utilizado o dataset de Previsão de Preços de Imóveis da California.
+  * Uso Do SVM e GridSearchCV.
+  * Esse exercício é referente a atividade do dia 01/10/26.
  
 ---
 
