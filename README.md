@@ -34,7 +34,7 @@ Este repositório é destinado ao armazenamento e organização dos notebooks, c
   * Este notebook demostra um fluxo de trabalho de classificação, utilizando o SVM e GridSearchCV.
   * Esse exercício foi realizado para fins acadêmicos e para apresentação no summit da faculdade.
  
-  * **`FISHMORPH_Family_dataset.ipynb` e `FISHMORPH_Order.ipynb`**:
+* **`FISHMORPH_Family_dataset.ipynb` e `FISHMORPH_Order.ipynb`**:
   * Este notebook demostra um fluxo de trabalho de classificação, utilizando dois datasets parecidos e já filtrados, utilizando o SVM e GridSearchCV.
   * Esse exercício foi realizado para fins acadêmicos e para preparação da avaliação M1.
  
